@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: apache:poi-ooxml:3.9-20121203">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/apache/poi-ooxml/3.9-20121203/poi-ooxml-3.9-20121203.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/apache/poi-ooxml/3.9-20121203/poi-ooxml-3.9-20121203-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/apache/poi-ooxml/3.9-20121203/poi-ooxml-3.9-20121203-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
